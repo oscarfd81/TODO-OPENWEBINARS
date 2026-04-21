@@ -13,7 +13,7 @@ Desarrollar un sistema de backend robusto para una **To-Do List** (Gestión de T
 
 ### 🔹 Gestión de Tareas (CRUD)
 * **Persistencia Automatizada:** Uso de `@GeneratedValue` con secuencias para un control preciso de IDs.
-* **Operaciones Completas:***
+* **Operaciones Completas:**
      * Crear nuevas tareas.
     * Editar detalles de tareas existentes.
     * Borrado físico de registros.
